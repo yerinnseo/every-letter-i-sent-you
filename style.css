@@ -51,8 +51,10 @@ p{
     font-family: 'UhBeeZZIBA-Regular';
     margin-bottom: 30px;
     font-size: smaller;
+    margin-top: 0;
 }
 div{
     font-family: 'UhBeeZZIBA-Regular';
     font-size: 120%;
+    margin: 50px;
 }
